@@ -1,0 +1,21 @@
+Note:some of the codes are from the text book wrriten by prof.Zhang
+
+Readme 
+******************************
+Question 1
+Compile the java files:
+javac Stairs.java
+Run the java files:
+java Stair 25 15 stairs.dat
+-----------------------------
+There are about 3 arguments for running the Stairs.java
+The first argument:25 is the number of stairs
+The second argument: 15 is the rotation degree
+The third argument: stairs.dat is the output data file
+******************************
+Question 2
+Compile the java files:
+javac *.java
+Run the java files:
+java Koch.txt
+--------------------------------
